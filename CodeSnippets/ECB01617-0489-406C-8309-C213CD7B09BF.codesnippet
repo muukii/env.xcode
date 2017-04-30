@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string> deinit {
-            Log.logDeinit(self)
+            Log.deinit(self)
         }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ECB01617-0489-406C-8309-C213CD7B09BF</string>
